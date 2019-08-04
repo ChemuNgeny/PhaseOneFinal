@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "710038571205",
+    "firebase_url": "https://alcphasetwo-82518.firebaseio.com",
+    "project_id": "alcphasetwo-82518",
+    "storage_bucket": "alcphasetwo-82518.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710038571205:android:e8b16d34bd9c29a1",
+        "android_client_info": {
+          "package_name": "com.example.alcphasetwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710038571205-efp0n3iodno5a2hmgk58psoc2lb7nmjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alcphasetwo",
+            "certificate_hash": "c1066f900ba7a4e7f465ebf61321bbc42a38d353"
+          }
+        },
+        {
+          "client_id": "710038571205-sa09933nbfa24l1r7f2s57vqf26mvq03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlD_Kpi9L4eSsKpT4QCPQVth9ZZQF4JOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710038571205-sa09933nbfa24l1r7f2s57vqf26mvq03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
